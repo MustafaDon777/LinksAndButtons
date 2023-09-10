@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JSON Data to Links</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Links Generated from JSON Data</h1>
+    <div id="links-container">
+        <!-- Links will be generated here -->
+    </div>
+
+    <hr>
+    <h2>Add New Entry</h2>
+    <form id="add-entry-form">
+        <label for="newTitle">Title:</label>
+        <input type="text" id="newTitle" required>
+        <label for="newURL">URL:</label>
+        <input type="url" id="newURL" required>
+        <label for="newPassword">Password:</label>
+        <input type="text" id="newPassword" required>
+        <button type="submit">Add Entry</button>
+    </form>
+  
+    <script src="script.js"></script>
+</body>
