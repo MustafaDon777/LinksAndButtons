@@ -11,14 +11,14 @@ document.addEventListener("DOMContentLoaded", function () {
                 linkDiv.classList = "lnButton";
                 const link = document.createElement("a");
                 link.textContent = item.title;
-                link.href = item.url;
+                link.href = item.link;
                 link.target = "_blank"; // Open links in a new tab
                 
                 // Add a click event listener to the <a> element to copy the password
                 link.addEventListener("click", function (event) {
                     event.preventDefault();
                     copyPasswordToClipboard(item.password);
-                  window.open(item.url, "_blank");
+                    window.open(item.link, "_blank");
                 });
 
                 linkDiv.appendChild(link);
