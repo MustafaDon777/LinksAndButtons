@@ -1,17 +1,82 @@
 [
-    {
-      "title": "Link 1",
-      "url": "https://www.example.com/link1",
-      "password": "password1"
-    },
-    {
-      "title": "Link 2",
-      "url": "https://www.example.com/link2",
-      "password": "password2"
-    },
-    {
-      "title": "Link 3",
-      "url": "https://www.example.com/link3",
-      "password": "password3"
-    }
-  ]
+  {
+    "title": "(Cal 3) 10.2-10.3",
+    "link": "https://bmcc-cuny.zoom.us/rec/share/tItNCuCo20ZJXc-R0mf_QoF6DLb3eaa80yQa_qYFzxzygdOP08LhtaZDRo7FYKMD",
+    "password": "Qn?jTv4%"
+  },
+  {
+    "title": "(Cal 3) 10.2-10.2",
+    "link": "https://bmcc-cuny.zoom.us/rec/share/3sIldK239iRJRLP_6VH9dYchFI7iaaa82nUZr_EKmRm6QdZQDeCLhpR54udo48Nc",
+    "password": "CAd#4Uh2"
+  },
+  {
+    "title": "(Cal 3) 10.4-10.5",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/vsYtcbqhrDg3S9THtQSDVPF7W9W_KKysgyEa_PRey0a3WyYGNQD0NbdANLHWSs_VXKBMy0VfyZKP9PU_?continueMode=true",
+    "password": "&+hbT69w"
+  },
+  {
+    "title": "(Cal 3) 13.1-1",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/HIpICxCmti6CfX3b79LQsiVZ0bd4mL5j7niL_vfVgplp6Kj_p-wsZOtYK0GozpZS7euLsvYhLdFcGiM.Nvetapr-3tLIioLf?continueMode=true",
+    "password": "??2T=97g"
+  },
+  {
+    "title": "(Cal 3) 13.1-2",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/6PQxZdQCxHOU6rqdcvUGGbSSKGD4WADCHrT-BkvJE067okYt1HnUhAbHGn2rSlm7-JVWCtRzGYWd4-V8.0eE02GUzGHpt7nxm?continueMode=true",
+    "password": "2Y=iAl#J"
+  },
+  {
+    "title": "(Cal 3) 13.2-1",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/1chXYbkz4Zu3Ntq0viq67tJhqOYMhch9k77Ln5dAm_bSVTVbAu_hhYexqlKyDjPHIvVIXF4b7N9BP4Xu.PAq2bsFO-U66_ZhR?continueMode=true",
+    "password": "Y!&1htNe"
+  },
+  {
+    "title": "(Cal 3) 13.2-2",
+    "link": "https://bmcc-cuny.zoom.us/rec/share/aDAbrVvYKz_cXTvel5h5meE8f9FOcF5xaJjCkiTc1LNcBWYewSX0KlxGlX8iYilS.tXxqPc6TTL8Tm-KH",
+    "password": "bKO*1P0t"
+  },
+  {
+    "title": "(Cal 3) 13.3-1",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/6To-jx2l-JaIXaxN8Sv9Q7-9rjFRIfnjXNd6StLjI6RjYpPk1bqAj1ARkuWQWtAG6LqnFi9tIg-orZQI.UJmvr7g5OBqO3Cpr?continueMode=true",
+    "password": "=EW7343z"
+  },
+  {
+    "title": "(Cal 3) 13.3-2",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/RvBYzIHL2xGvThGt2P06n5MCODMlQia_HcLOskG_1XiDnUmurzs1x9RhNDXrzFsGzSt723Cd94NGXQhD.FwQgSR8sC2juEd0X?continueMode=true",
+    "password": "#8giHu!J"
+  },
+  {
+    "title": "(Cal 3) 13.4-1",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/5tgXwtMNApzcWblKLVRVQs_TdL_g-8mFP-9UwzEM0iPQicVBwf961kg0Nt2ysjCmusD_84y0esUtT7Oh.ay8w4p4K_7pgcJIW?continueMode=true",
+    "password": "^g5?RxRy"
+  },
+  {
+    "title": "(Cal 3) 13.5-1",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/2ZxPP0GAjzIyMw0E_dJlFELAes6Sbl-ce2YlklTCq-S4MM8p7p4L4SXW7NWoVT3Rg_Vm9o3hg4HqrZEV.0ErsZ07DGmyStAUl?continueMode=true",
+    "password": "=n#m3g55"
+  },
+  {
+    "title": "(Cal 3) 13.5-2",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/bqmJTF2oKcyaFFtYhOIsQRqoQA1F1pjyBQr5QtvTTZCyx6YMZvatt4HINaalqpbiMtp711f-XJPsh-yh.s8dlDqv-Smr1me20?continueMode=true",
+    "password": "0CX7.u&S"
+  },
+  {
+    "title": "(Cal 3) 13.6-1",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/Ll7cyXg5V_w1vO2Id27QKTrIJg2F00271Qq6lKSZmDoJAuP9DiL-uKAU3APKBmtKjyA_cT0DXvATqKJS.TzY1iN7MR20qoqAR?continueMode=true",
+    "password": "+CmsU%9d"
+  },
+  {
+    "title": "(Cal 3) 13.6-2",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/IQi7JOl1mwAZfp1NZW-mZZteYyVj6uFQKqHK442mqvnIJ08CBeoxxhYbOJ931884hHQd6QPZyJNgAzwe.5VgGEfmQAwChIq4j?continueMode=true",
+    "password": "4b7xf.U&"
+  },
+  {
+    "title": "(Cal 3) 13.7-1",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/lVtZhEupTNlxb4woxAc0wAkMRbZvP5KKeZSsHHZUaJwk7MAOcIXYyHH3Cf3sVDMZZ47sUCW08ZrEhCbS.uRP5_wH_EFAYlGdB?continueMode=true",
+    "password": "7w+x46&A"
+  },
+  {
+    "title": "(Cal 3) 13.7-2",
+    "link": "https://bmcc-cuny.zoom.us/rec/play/ilsMEpa5MsDpXbm9ght__LLsS7m3Tgir6Zs91-RQIQMlEkCBgPtV8nbMtdwg60KRb5xj0_Xz40w-cJDU.ByoUGcqQ-xLx1Mqt?continueMode=true",
+    "password": "mA&=VKq3"
+  }
+]
