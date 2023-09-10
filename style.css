@@ -19,5 +19,12 @@ html {
   padding: 30px;
   border: 2px solid white;
   border-radius: 10px;
+  transition: 0.5s;
 
+}
+
+.lnButton>a:hover{
+  font-size: 22px;
+  padding: 35px;
+  transition: 0.5s;
 }
