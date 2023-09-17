@@ -30,7 +30,7 @@ html {
 }
 
 #links-container{
-  height:20%; 
+  height:50vh; 
   width:700px; 
   background-color: #0c0e31;
   overflow: hidden;
