@@ -31,7 +31,7 @@ html {
 
 #links-container{
   height:50vh; 
-  width:700px; 
+  width:50vw; 
   background-color: #0c0e31;
   overflow: hidden;
   overflow-y: scroll;
